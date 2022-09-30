@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f0092&height=140&section=header"/>
-Olá, Eu sou a Cristiane!
+
+### Olá, Eu sou a Cristiane!
+
 
 ### Contato:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ticristiane-nicolay-a73a12134/)](https://www.linkedin.com/in/ticristiane-nicolay-a73a12134/)
